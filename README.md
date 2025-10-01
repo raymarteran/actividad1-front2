@@ -23,8 +23,8 @@ Una plataforma web de blog de belleza desarrollada con React, Vite y Tailwind CS
 
 1. Clona el repositorio
 ```bash
-git clone <url-del-repositorio>
-cd frontendII
+git clone https://github.com/raymarteran/actividad1-front2
+cd actividad1-front2
 ```
 
 2. Instala las dependencias
