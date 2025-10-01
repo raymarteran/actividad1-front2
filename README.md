@@ -20,24 +20,35 @@ Una plataforma web de blog de belleza desarrollada con React, Vite y Tailwind CS
 - **JavaScript** - Lenguaje de programación
 
 ## 📦 Instalación
+1. Abre el terminal o linea de comandos en la carpeta donde quieres clonar el proyecto
 
-1. Clona el repositorio
+
+2. Escribe o copia el siguiente comando para clonar el repositorio
 ```bash
 git clone https://github.com/raymarteran/actividad1-front2
+```
+
+3. Escribe o copia el siguiente comando para ir a la carpeta del proyecto  
+```bash
 cd actividad1-front2
 ```
 
-2. Instala las dependencias
+4. Abre Visual Studio Code usando el siguiente comando
+```bash
+code .
+```
+
+5. Instala las dependencias en el Terminal de Visual Studio Code
 ```bash
 npm install
 ```
 
-3. Ejecuta el servidor de desarrollo
+6. Ejecuta el servidor de desarrollo con el siguiente comando
 ```bash
 npm run dev
 ```
 
-4. Abre [http://localhost:5173](http://localhost:5173) en tu navegador
+7. Abre [http://localhost:5173](http://localhost:5173) en tu navegador
 
 ## 🎨 Paleta de Colores
 
